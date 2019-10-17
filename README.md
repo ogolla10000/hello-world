@@ -1,3 +1,5 @@
 # hello-world
-this is my first repository as an effort to learn the GitHub environment
-I have just started my programing journey. Many things are new and interesting. I am willing to put in the 10 k hours to become a master.
+This repository is a step by step execution of the book 'A Beginners Guide to Python 3 Programming' by John Hunt
+I have decided to learn programming and thought to go step by step using this book
+This repository is an inclusion of the exercises suggested and how I am doing them.
+All are welcome to make their contributions.
